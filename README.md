@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Tech related Stuff. 
-- 📫 How to reach me: [Twitter -@NISHA__KASHYAP] (https://twitter.com/Nisha__Kashyap)
+- 📫 How to reach me: [Twitter -@NISHA__KASHYAP](https://twitter.com/Nisha__Kashyap)
 
